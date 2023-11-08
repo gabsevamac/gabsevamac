@@ -14,5 +14,3 @@ Currently working on CNH Industrial<br>Learning about Java, Python, Angular, 3D 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Xoris650&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
