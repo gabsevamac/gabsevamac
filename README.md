@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on CNH Industrial<br>Learning about Java, Python, Angular, 3D modeling, SQL<br>19y<br>Studying in UNA Contagem
+Currently working on CNH Industrial<br>Learning about Java, Python, Angular, 3D modeling, SQL<br>20y<br>Studying in UNA Contagem
 
 
 ## 🌐 Socials:
